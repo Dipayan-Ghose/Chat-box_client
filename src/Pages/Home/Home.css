@@ -1,0 +1,5 @@
+.focusBorder:focus { 
+    outline: none !important;
+    border-color: rgb(79, 242, 79);
+    box-shadow: 0 0 2px #70fa7b;
+}
